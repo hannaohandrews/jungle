@@ -4,6 +4,14 @@
     <h1>My Cart</h1>
   </header>
 
+  <% if enhanced_cart.length == 0 %>
+  <div class="Empty Cart">
+    <h2>You have nothing in your cart yet!</h2>
+    <%= link_to 'Home', :root %>
+  </div>
+  
+  <%else%>
+
   <div class="panel panel-default items">
     <table class="table table-bordered">
       <thead>
@@ -25,7 +33,11 @@
             TOTAL:
           </th>
           <th>
+<<<<<<< HEAD
             <%= humanized_money_with_symbol (cart_subtotal_cents / 100.0)%>
+=======
+            <%= humanized_money_with_symbol cart_subtotal_cents / 100.0 %>
+>>>>>>> fix/empty-cart-ui
           </th>
         </tr>
       </tfoot>
@@ -48,5 +60,6 @@
       <% end %>
     </div>
   </div>
+  <% end %>
 
 </section>
