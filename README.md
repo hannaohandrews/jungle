@@ -8,8 +8,7 @@ Stripe platform is used for payments.
 ![Test Image 1](https://github.com/hannaohandrews/jungle/blob/master/pictures/home_page.png?raw=true)
 ![Test Image 2](https://github.com/hannaohandrews/jungle/blob/master/pictures/product.png?raw=true)
 ![Test Image 3](https://github.com/hannaohandrews/jungle/blob/master/pictures/cart.png?raw=true)
-![Test Image 4](https://github.com/hannaohandrews/jungle/blob/master/pictures/payment.png?raw=true)
-![Test Image 5](https://github.com/hannaohandrews/jungle/blob/master/pictures/admin.png?raw=true)
+![Test Image 4](https://github.com/hannaohandrews/jungle/blob/master/pictures/admin.png?raw=true)
 
 ## Setup
 
