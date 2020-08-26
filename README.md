@@ -1,7 +1,15 @@
 # Jungle
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+TDD (test-driven development) practices are followed using RSpec library.
+Stripe platform is used for payments.
 
+## Images
+![Test Image 1](https://github.com/hannaohandrews/jungle/blob/master/pictures/home_page.png?raw=true)
+![Test Image 2](https://github.com/hannaohandrews/jungle/blob/master/pictures/product.png?raw=true)
+![Test Image 3](https://github.com/hannaohandrews/jungle/blob/master/pictures/cart.png?raw=true)
+![Test Image 4](https://github.com/hannaohandrews/jungle/blob/master/pictures/payment.png?raw=true)
+![Test Image 5](https://github.com/hannaohandrews/jungle/blob/master/pictures/admin.png?raw=true)
 
 ## Setup
 
@@ -25,3 +33,9 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+
+
+
+
+
